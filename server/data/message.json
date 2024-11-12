@@ -1,0 +1,82 @@
+[
+    {
+        "roomId": 1,
+        "userId": 1,
+        "message_text": "haii kaka"
+    },
+    {
+        "roomId": 1,
+        "userId": 2,
+        "message_text": "haii juga"
+    },
+    {
+        "roomId": 1,
+        "userId": 3,
+        "message_text": "haii kaka cantik"
+    },
+    {
+        "roomId": 2,
+        "userId": 1,
+        "message_text": "haii kaka"
+    },
+    {
+        "roomId": 2,
+        "userId": 1,
+        "message_text": "apa kabar nih?"
+    },
+    {
+        "roomId": 2,
+        "userId": 2,
+        "message_text": "baik juga ka"
+    },
+    {
+        "roomId": 3,
+        "userId": 1,
+        "message_text": "The deadline is next week."
+    },
+    {
+        "roomId": 3,
+        "userId": 2,
+        "message_text": "I'll send you the documents shortly."
+    },
+    {
+        "roomId": 3,
+        "userId": 2,
+        "message_text": "Don't forget about the meeting."
+    },
+    {
+        "roomId": 1,
+        "userId": 1,
+        "message_text": "The deadline is next week."
+    },
+    {
+        "roomId": 3,
+        "userId": 4,
+        "message_text": "I'll send you the documents shortly."
+    },
+    {
+        "roomId": 3,
+        "userId": 3,
+        "message_text": "Let me know if you need help."
+    },
+    {
+        "roomId": 2,
+        "userId": 2,
+        "message_text": "Can we meet tomorrow?"
+    },
+    {
+        "roomId": 1,
+        "userId": 3,
+        "message_text": "What is the progress on the project?"
+    },
+    {
+        "roomId": 1,
+        "userId": 3,
+        "message_text": "Good morning!"
+    },
+    {
+        "roomId": 1,
+        "userId": 3,
+        "message_text": "Don't forget about the meeting."
+    }
+]
